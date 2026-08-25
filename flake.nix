@@ -232,6 +232,7 @@
           jq
           nil
           nix-output-monitor
+          docker
         ];
         shellHook = ''
           echo "AnNIXion dev shell — Ctrl+Shift+B in VSCodium runs the full check."
